@@ -1,0 +1,40 @@
+{
+  "name": "enterflow",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "@paystack/inline-js": "^2.12.6",
+    "@reduxjs/toolkit": "^1.8.3",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "file-saver": "^2.0.5",
+    "firebase": "^9.9.0",
+    "flutterwave-react-v3": "^1.2.1",
+    "next": "12.2.2",
+    "nodemailer": "^6.7.7",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.3.0",
+    "react-nextjs-toast": "^1.2.5",
+    "react-paystack": "^3.0.5",
+    "react-redux": "^8.0.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "18.0.4",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2",
+    "typescript": "4.7.4"
+    
+  }
+}
